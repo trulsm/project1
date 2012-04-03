@@ -141,7 +141,6 @@ To reload your controllers and models after launching the console run
 More information about irb can be found at:
 link:http://www.rubycentral.org/pickaxe/irb.html
 
-
 == dbconsole
 
 You can go to the command line of your database directly through <tt>rails
